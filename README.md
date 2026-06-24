@@ -39,13 +39,13 @@
 ## Screenshots
 
 ### Homepage
-![Homepage](Screenshot_2026-06-24_220343.png)
+![Homepage](https://github.com/user-attachments/assets/146b80fa-2a03-4e04-bab0-31f4567212ac)
 
 ### Product Page
-![Product Page](Screenshot_2026-06-24_220545.png)
+![Product Page](https://github.com/user-attachments/assets/ba35abcd-2e20-4f61-b06d-ff99bb1a7b5b)
 
 ### Cart Page
-![Cart Page](Screenshot_2026-06-24_220653.png)
+![Cart Page](https://github.com/user-attachments/assets/2fc03d83-146b-4af4-a891-569cd7daab00)
 
 ---
 
