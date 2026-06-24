@@ -1,5 +1,3 @@
-
-````markdown
 # ECOLE Fashion Store 🛍️
 
 ## Student Information
@@ -41,13 +39,13 @@
 ## Screenshots
 
 ### Homepage
-![Homepage](Screenshot%202026-06-24%20220343.png)
+![Homepage](Screenshot_2026-06-24_220343.png)
 
 ### Product Page
-![Product Page](Screenshot%202026-06-24%20220545.png)
+![Product Page](Screenshot_2026-06-24_220545.png)
 
 ### Cart Page
-![Cart Page](Screenshot%202026-06-24%20220653.png)
+![Cart Page](Screenshot_2026-06-24_220653.png)
 
 ---
 
@@ -74,4 +72,3 @@
 
 ## GitHub Repository Link
 [https://github.com/Edward2033](https://github.com/Edward2033)
-````
