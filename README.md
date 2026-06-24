@@ -40,16 +40,21 @@
 
 ## Screenshots
 
+
+
+## Screenshots
+
 ### Homepage
-![Homepage](Screenshot 2026-06-24 220343.png)
+![Homepage](Screenshot%202026-06-24%20220343.png)
 
 ### Product Page
-![Product Page](Screenshot 2026-06-24 220545.png)
+![Product Page](Screenshot%202026-06-24%20220545.png)
 
 ### Cart Page
-![Cart Page](Screenshot 2026-06-24 220653.png)
+![Cart Page](Screenshot%202026-06-24%20220653.png)
+```
 
----
+
 
 ## Challenges
 - Learning how to navigate the Shopify admin interface for the first time
