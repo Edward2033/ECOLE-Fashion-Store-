@@ -1,6 +1,6 @@
 
 ````markdown
-# ECOLE Fashion Store 
+# ECOLE Fashion Store 🛍️
 
 ## Student Information
 - **Name:** Edward Y. Cole
@@ -40,10 +40,6 @@
 
 ## Screenshots
 
-
-
-## Screenshots
-
 ### Homepage
 ![Homepage](Screenshot%202026-06-24%20220343.png)
 
@@ -52,9 +48,8 @@
 
 ### Cart Page
 ![Cart Page](Screenshot%202026-06-24%20220653.png)
-```
 
-
+---
 
 ## Challenges
 - Learning how to navigate the Shopify admin interface for the first time
