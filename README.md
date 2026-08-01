@@ -1,38 +1,36 @@
-# ECOLE Fashion Store 🛍️
+# ECOLE Fashion Store
 
-## Student Information
-- **Name:** Edward Y. Cole
-- **Platform:** Shopify (No-Code/Low-Code)
+A fashion e-commerce storefront built on Shopify, showcasing clothing and accessories with full cart, checkout, and product management.
 
----
-
-## Project Title
-**ECOLE Fashion Store** — A No-Code E-Commerce Application
+**Live Store:** https://j21h9m-18.myshopify.com
 
 ---
 
-## Platform Used
-- **Shopify** — a leading no-code e-commerce platform
-- **GitHub** — for version control and documentation
+## About
+
+ECOLE Fashion Store is a branded Shopify storefront for a Rwandan fashion label. It demonstrates a complete no-code e-commerce setup with product listings, cart functionality, and a custom theme.
 
 ---
 
-## Features Implemented
+## Features
 
-| Feature | Status |
-|---|---|
-| Homepage with store name & welcome message | ✅ Done |
-| Product page with 5+ products (images, prices, descriptions) | ✅ Done |
-| About page (store description & mission) | ✅ Done |
-| Contact page (email, phone & contact form) | ✅ Done |
-| Cart / Add-to-cart interaction | ✅ Done |
+- Product catalogue with images, prices, and descriptions
+- Add-to-cart and checkout flow
+- About and Contact pages
+- Custom theme matching the ECOLE brand identity
+- Inventory management — out-of-stock products display "Sold Out"
 
-### Products Listed (prices in RWF)
-1. Ecole Classic White Tee — RWF 29,000
-2. Ecole Slim Fit Chinos — RWF 65,000
-3. Ecole Oversized Hoodie — RWF 75,000
-4. Ecole Floral Wrap Dress — RWF 85,000
-5. Ecole Leather Crossbody Bag — RWF 95,000
+---
+
+## Products
+
+| Product | Price (RWF) |
+|---------|-------------|
+| Ecole Classic White Tee | 29,000 |
+| Ecole Slim Fit Chinos | 65,000 |
+| Ecole Oversized Hoodie | 75,000 |
+| Ecole Floral Wrap Dress | 85,000 |
+| Ecole Leather Crossbody Bag | 95,000 |
 
 ---
 
@@ -49,26 +47,12 @@
 
 ---
 
-## Challenges
-- Learning how to navigate the Shopify admin interface for the first time
-- Setting up product pages with correct pricing in Rwandan Francs (RWF)
-- Customising the theme to reflect the ECOLE brand identity
-- Resolving the Shopify page editor saving issue caused by Liquid template tags
+## Platform
+
+Built on [Shopify](https://shopify.com). Theme customisation done via the Shopify theme editor and Liquid templates.
 
 ---
 
-## Lessons Learned
-- No-code platforms like Shopify make it possible to build a fully functional e-commerce store without writing code
-- Good product descriptions and clear pricing improve the customer experience
-- GitHub Markdown is an effective way to document and present a project professionally
-- Inventory management is important — products without stock show as "Sold Out" to customers
+## License
 
----
-
-## Live Website Link
-[https://j21h9m-18.myshopify.com](https://j21h9m-18.myshopify.com)
-
----
-
-## GitHub Repository Link
-[https://github.com/Edward2033](https://github.com/Edward2033)
+[MIT](LICENSE) © Edward Y. Cole
